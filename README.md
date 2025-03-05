@@ -27,5 +27,4 @@ How do i know this exist? My friend said his phone number to someone. And he was
 
 I hope this reaches the right audience. 
 
-Telegram: @wahcool
-Discord: @ifhb
+Telegram: nvm
