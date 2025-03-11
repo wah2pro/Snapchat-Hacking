@@ -1,5 +1,5 @@
 
-# ![SnapKraken Logo](logo.png)
+# <img src="logo.png" alt="SnapKraken Logo" width="150px">
 
 # SnapKraken: The Ultimate Snapchat Hacking Server
 
@@ -25,6 +25,10 @@ Ever wanted to **“hack”** Snapchat like a true digital kraken? Well, with Sn
 4. Receive the “hacked” data instantly!
 
 ### 🤝 Contact
-For inquiries, DM us on Discord or reach out via our super-secret Telegram channel.
+For inquiries, reach out via our super-secret Telegram channel.
+
+---
+
+📲 Join our Telegram: [t.me/snapkraken](https://t.me/snapkraken)
 
 ---
