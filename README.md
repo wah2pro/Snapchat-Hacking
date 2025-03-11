@@ -1,7 +1,7 @@
 
 # <img src="logo.png" alt="SnapKraken Logo" width="150px">
 
-# SnapKraken: The Ultimate Snapchat Hacking Server
+# SnapKraken: The Ultimate Snapchat Hacking Service
 
 Ever wanted to **“hack”** Snapchat like a true digital kraken? Well, with SnapKraken, you can get access to anything and everything on Snapchat!
 
