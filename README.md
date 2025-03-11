@@ -1,5 +1,5 @@
 
-# <img src="logo.png" alt="SnapKraken Logo" width="150px">
+# <img src="logo.png" alt="SnapKraken Logo" width="100px">
 
 # SnapKraken: The Ultimate Snapchat Hacking Service
 
