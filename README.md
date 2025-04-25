@@ -29,6 +29,6 @@ For inquiries, reach out via our super-secret Telegram channel.
 
 ---
 
-📲 Join our Telegram: [t.me/snapkraken](https://t.me/snapkraken)
+📲 Join our Telegram: [t.me/snapkraken](https://t.me/snapkraken2)
 
 ---
